@@ -61,7 +61,7 @@ function draw() {
   pop();
   
   strokeWeight(16);
-  stroke(255, 255, 255, 127);
+  stroke(255, 255, 255, 150);
   point(0, 0);
   
 }
