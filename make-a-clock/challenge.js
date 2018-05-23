@@ -4,9 +4,9 @@
 // Challenge Completed by: 
 // For references, go to p5js.org/references.
 
-var sc;
-var mn;
-var hr;
+let sc;
+let mn;
+let hr;
 
 function setup() {
   createCanvas(400, 400);
